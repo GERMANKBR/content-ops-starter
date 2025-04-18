@@ -1,19 +1,19 @@
 ---
-title: Our Team
-slug: team
+title: Careers
+slug: careers
 sections:
   - title:
-      text: Meet the Minds Behind Fruchtlabor
+      text: Meet the Visionaries Behind Fruchtlabor
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Visionary developers & builders powering AI-driven crypto innovation
+    subtitle: Driving the future of AI-powered blockchain
     text: >
-      Fruchtlabor is not just a project — it’s a precision-engineered token ecosystem forged by a diverse team of seasoned developers, engineers, and strategists. Our mission: push the boundaries of Web3 through trustless automation, deep utility, and community-first AI governance.
+      The Fruchtlabor team is composed of elite AI engineers, crypto researchers, and DeFi strategists committed to building the next generation of decentralized technology. Our team brings together years of experience from world-class institutions and pioneering startups across the Web3 ecosystem. We are driven by a shared mission: to democratize AI, decentralize governance, and deliver real-world utility through Fruchtlabor (FUL).
     actions:
-      - label: Join the Mission
+      - label: Meet our builders
         url: /
         icon: arrowRight
         iconPosition: right
@@ -37,26 +37,26 @@ sections:
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
-      altText: AI-infused token ecosystem
+      altText: background featuring blockchain nodes
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Core Contributors
+      text: Meet the Core Team
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     people:
-      - content/data/felix-lohner.json
-      - content/data/hannah-jung.json
-      - content/data/yann-kraus.json
-      - content/data/minseo-park.json
-      - content/data/lukas-ritter.json
-      - content/data/alessia-bianchi.json
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -71,18 +71,18 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Work With Us
+      text: Join the Fruchtlabor Movement
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We’re always open to talent in AI, Web3, and security
+    subtitle: We're growing — build with us
     items:
-      - title: AI Governance Engineer
-        subtitle: Protocol / Research
+      - title: Blockchain Research Analyst
+        subtitle: Tokenomics
         text: >-
-          Contribute to building intelligent auto-governance proposals using NLP and sentiment-driven mechanics.
+          Conduct deep on-chain analytics, interpret data trends, and help optimize the FUL economy.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -96,10 +96,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Rust Smart Contract Lead
-        subtitle: Blockchain Development
+      - title: Full Stack Web3 Developer
+        subtitle: Engineering
         text: >-
-          Build out next-gen smart contracts for token automation and liquidity routing on Solana.
+          Create lightning-fast dApps that interact seamlessly with Solana-based smart contracts.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -113,10 +113,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Community AI Agent Developer
-        subtitle: AI / Bots
+      - title: Growth & Community Strategist
+        subtitle: Marketing / Ops
         text: >-
-          Train and deploy community-facing bots that manage sentiment, filter FUD, and maintain engagement 24/7.
+          Shape our brand narrative, drive adoption, and empower our global user base through education and campaigns.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -149,10 +149,11 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Team - Fruchtlabor AI
-  metaDescription: Meet the brilliant developers and AI architects shaping the Fruchtlabor token economy.
+  metaTitle: Team - Fruchtlabor
+  metaDescription: Explore the builders, strategists, and AI experts shaping the Fruchtlabor (FUL) ecosystem.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
+
 
