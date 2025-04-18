@@ -1,5 +1,4 @@
 {
-  "type": "Header",
   "logo": {
     "url": "/images/logo-dark.svg",
     "altText": "Fruchtlabor Logo",
@@ -21,6 +20,7 @@
     },
     {
       "label": "Docs",
+      "altText": "Documentation",
       "url": "/docs",
       "icon": "arrowRight",
       "iconPosition": "right",
@@ -29,7 +29,7 @@
     },
     {
       "label": "Team",
-      "altText": "Team",
+      "altText": "Core Team",
       "url": "/careers",
       "icon": "arrowRight",
       "iconPosition": "right",
@@ -90,5 +90,6 @@
     }
   ],
   "variant": "logo-left-primary-nav-centered",
-  "colors": "bg-light-fg-dark"
+  "colors": "bg-light-fg-dark",
+  "type": "Header"
 }
