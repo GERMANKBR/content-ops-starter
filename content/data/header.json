@@ -11,8 +11,8 @@
   },
   "primaryLinks": [
     {
-      "label": "Token",
-      "url": "/token",
+      "label": "Fruchtlabor Token",
+      "url": "/Fruchtlabor Token",
       "icon": "arrowRight",
       "iconPosition": "right",
       "style": "secondary",
