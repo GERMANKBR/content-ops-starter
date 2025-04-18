@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/fruchtlabor.png
       altText: Fruchtlabor $FUL token preview
       elementId: ''
       type: ImageBlock
