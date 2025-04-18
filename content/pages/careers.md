@@ -1,6 +1,6 @@
 ---
-title: Careers
-slug: careers
+title: Foundation
+slug: Foundation
 sections:
   - title:
       text: Meet the Visionaries Behind Fruchtlabor
