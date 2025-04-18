@@ -1,6 +1,6 @@
 ---
-title: Pricing
-slug: pricing
+title: Fruchtlabor Token
+slug: Fruchtlabor Token
 sections:
   - title:
       text: Flexible Plans for Every Fruchtlabor Holder
