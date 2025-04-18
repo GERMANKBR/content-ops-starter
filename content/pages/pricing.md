@@ -3,31 +3,30 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexible Plans for Every Fruchtlabor Holder
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Choose a model that fits your crypto strategy
     plans:
-      - title: Developers
+      - title: Developer Tier
         price: Free
-        details: No credit card required
+        details: No wallet required
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          Perfect for builders and researchers exploring FUL. Get started with test tokens and simulate AI-governed tokenomics.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Access to Fruchtlabor documentation
+          - Devnet test token faucet
+          - Community Discord access
+          - Simulated AI behavior dashboard
         image:
           url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          altText: Developer pricing plan
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Join Devnet
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,23 +42,23 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+
+      - title: Early Adopter
         price: $99
-        details: per month
+        details: One-time fee
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          For first believers of FUL. Get whitelist access to future airdrops, DAO voting, and reward multipliers.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Airdrop eligibility (Season 1)
+          - Auto-stake boost
+          - DAO proposal voting rights
+          - Exclusive Telegram role
         image:
           url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          altText: Early Adopter plan
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Secure Your Spot
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,24 +74,24 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+
+      - title: Enterprise Integration
         price: Custom
-        details: per month
+        details: Based on scale
         description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+          Designed for Web3 projects, DApps, and protocols wanting to integrate Fruchtlabor token logic or liquidity features.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - White-labeled AI engine
+          - Access to liquidity module
+          - Governance and staking API
+          - Partner dashboard
+          - Cross-chain integration (Q3 2025)
         image:
           url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
+          altText: Enterprise Frucht plan
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Contact Team
             url: /
             icon: arrowRight
             iconPosition: right
@@ -116,9 +115,10 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Pricing - Fruchtlabor AI Token
+  metaDescription: Discover Fruchtlabor’s flexible pricing tiers—whether you're a dev, investor, or integrator.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
+
