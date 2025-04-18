@@ -19,9 +19,9 @@
       "type": "Link"
     },
     {
-      "label": "Tech Docs	",
+      "label": "Tech Docs",
       "altText": "Documentation",
-      "url": "/Tech Docs	",
+      "url": "/Tech Docs",
       "icon": "arrowRight",
       "iconPosition": "right",
       "style": "secondary",
