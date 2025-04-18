@@ -1,6 +1,6 @@
 ---
-title: Blog
-slug: /blog
+title: Tech Docs
+slug: /Tech Docs
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
