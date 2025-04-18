@@ -4,27 +4,25 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Fruchtlabor — Precision Crypto Engineered with AI
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: The $FUL Token on Solana
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Fruchtlabor ($FUL) redefines what a crypto token can do. Built on Solana for blazing speed and low fees, this community-driven token combines German innovation with AI-powered precision. $FUL is more than a memecoin—it's a hybrid token with both soul and substance, engineered not imagined.
     actions:
-      - label: Get started
+      - label: Buy $FUL
         altText: ''
-        url: /
+        url: https://www.orca.so/pools?tokens=So11111111111111111111111111111111111111112&tokens=2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: View Chart
         altText: ''
-        url: /
+        url: https://birdeye.so/token/2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94?chain=solana
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -33,11 +31,11 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Fruchtlabor $FUL token preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Now Live on Orca & BirdEye
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,15 +57,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why choose Fruchtlabor?
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Solana
+        subtitle: Engineered for Speed
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Built on Solana blockchain for blazing fast transactions, ultra-low fees, and energy efficiency. Experience the perfect foundation for a modern community token.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -84,21 +80,19 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Solana speed icon
           elementId: ''
           url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: 100%
+        subtitle: Community-Owned
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          No team tokens, no unfair advantages. Fruchtlabor is fully owned and controlled by its community, creating a truly decentralized ecosystem where everyone has equal opportunity.
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
+          altText: Community icon
           elementId: ''
           type: ImageBlock
         actions: []
@@ -115,15 +109,13 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: AI-Backed
+        subtitle: Smart Ecosystem
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Future plans include auto-reward systems, intelligent burn logic, and behavioral incentives powered by AI technology, making $FUL a next-generation token with real utility.
         image:
           url: /images/icon3.svg
-          altText: Featured icon three
+          altText: AI technology icon
           elementId: ''
           type: ImageBlock
         actions: []
@@ -139,9 +131,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Trade on Orca
         altText: ''
-        url: /
+        url: https://www.orca.so/pools?tokens=So11111111111111111111111111111111111111112&tokens=2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -149,7 +141,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Token Info
       color: text-primary
       styles:
         self:
@@ -168,28 +160,19 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Trading platforms & analytics
     images:
       - url: /images/empathy-logo.svg
-        altText: Empathy logo
+        altText: Orca logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        altText: BirdEye logo
         type: ImageBlock
       - url: /images/vise-logo.svg
-        altText: Vise logo
+        altText: DexTools logo
         type: ImageBlock
       - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+        altText: Solana logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -229,20 +212,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: $FUL Token Information
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Everything you need to know
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      $FUL (Fruchtlabor) is a community-driven Solana token engineered by developers and AI experts.
+      With a total supply of 1,000,000,000 (1B) tokens, $FUL is designed to be lightweight, scalable,
+      and meme-friendly. The token is fully tradable now with growing volume on Orca, and listed on BirdEye
+      and DexTools for easy tracking and analysis.
     media:
-      title: Title of the video
+      title: Fruchtlabor Overview
       url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
@@ -262,7 +245,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Token Details
       color: text-primary
       styles:
         self:
@@ -278,21 +261,20 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: German Innovation Meets AI Precision
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: The Fruchtlabor Difference
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Fruchtlabor combines the legendary precision of German engineering with cutting-edge AI technology.
+      This isn't just another memecoin - it's a carefully crafted token designed to provide real value
+      to its community while maintaining the fun, engaging aspects that make crypto exciting.
     actions: []
     media:
-      title: Title of the video
+      title: Fruchtlabor Experience
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
@@ -320,22 +302,23 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Community-Driven Development
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Join the Frucht Movement
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Fruchtlabor ($FUL) is 100% community-owned with no team tokens or unfair advantages.
+      Every development decision is made with the community in mind, creating a truly
+      decentralized ecosystem where everyone has an equal voice and opportunity.
     actions:
-      - label: Get started
-        url: /
+      - label: Join Twitter
+        url: https://twitter.com/fruchtlaborcryp
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: View Chart
+        url: https://birdeye.so/token/2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94?chain=solana
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -343,10 +326,10 @@ sections:
         type: Link
     media:
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: Community preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Community First
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -355,21 +338,23 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: AI-Powered Future
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Smart token economics
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Fruchtlabor integrates AI technology to create innovative token mechanics.
+      Future developments include auto-reward systems, intelligent burn logic,
+      and behavioral incentives that create a dynamic, responsive ecosystem that
+      evolves with its community.
     actions:
-      - label: Get started
-        url: /
+      - label: Trade Now
+        url: https://www.orca.so/pools?tokens=So11111111111111111111111111111111111111112&tokens=2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Learn More
         url: /
         showIcon: true
         icon: arrowRight
@@ -378,10 +363,10 @@ sections:
         type: Link
     media:
       url: /images/hero3.svg
-      altText: Dope design preview
+      altText: AI technology preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: The Future of $FUL
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -402,20 +387,19 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our community says about $FUL
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+          "Fruchtlabor is the perfect blend of meme culture and serious technology.
+          Finally a token that doesn't take itself too seriously but still delivers real value."
+        tagline: Community Member
+        subtitle: 'Maria W., Early Adopter'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          I've been in crypto for years and $FUL is one of the most promising community tokens
+          I've seen. The combination of Solana's speed and the team's vision is incredible.
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Maria W
           styles:
             self:
               borderRadius: full
@@ -435,16 +419,16 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+          "German engineering precision applied to crypto? Count me in! $FUL has the
+          perfect combination of community spirit and technical excellence."
+        tagline: Token Holder
+        subtitle: 'John D., Crypto Enthusiast'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          The transparency of the $FUL project is what drew me in. No team tokens means
+          everyone has skin in the game. That's how you build trust in this space.
         image:
           url: /images/person-placeholder-light.png
-          altText: John Doe
+          altText: John D
           styles:
             self:
               borderRadius: full
@@ -464,110 +448,23 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+          "What sets Fruchtlabor apart is its focus on AI integration. This isn't just
+          another token - it's a glimpse into the future of community-driven crypto."
+        tagline: Tech Analyst
+        subtitle: 'Alex K., Blockchain Developer'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          As a developer, I appreciate the technical thought that's gone into $FUL.
+          Building on Solana was the right choice, and the roadmap for AI integration
+          shows real vision.
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Alex K
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -589,22 +486,22 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Token Features
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: What makes $FUL special
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Solana Powered
+        tagline: Speed & Efficiency
+        subtitle: Ultra-fast transactions
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Built on Solana for blazing fast transactions, minimal fees, and energy efficiency.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          altText: Solana Feature
           styles:
             self:
               borderRadius: x-large
@@ -620,14 +517,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Community Owned
+        tagline: For the people
+        subtitle: No team tokens
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          100% community-owned with no team tokens or unfair advantages. True decentralization.
         image:
           url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          altText: Community Feature
           styles:
             self:
               borderRadius: x-large
@@ -643,14 +540,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: AI Integration
+        tagline: Smart mechanics
+        subtitle: Future-ready technology
         text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+          Advanced AI systems for rewards, burn logic, and community incentives.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          altText: AI Feature
           styles:
             self:
               borderRadius: x-large
@@ -680,15 +577,15 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Join the Fruchtlabor Community
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Be part of the movement
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Connect with fellow $FUL enthusiasts and stay updated on the latest
+      developments. Join our growing community and help shape the future
+      of Fruchtlabor. Follow us on Twitter and watch for upcoming Telegram
+      announcements.
     media:
       fields:
         - name: name
@@ -708,7 +605,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Your message or question
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -726,7 +623,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send Message
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -739,8 +636,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Fruchtlabor ($FUL) - AI-Engineered Solana Token
+  metaDescription: Fruchtlabor ($FUL) is a community-driven Solana token combining German innovation with AI-powered precision. 100% community-owned with no team tokens.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
