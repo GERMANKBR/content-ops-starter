@@ -1,24 +1,20 @@
 ---
-title: Team & Roadmap
-slug: team-roadmap
+title: Team
+slug: team
 sections:
   - title:
-      text: The Future of Fruchtlabor
+      text: The Minds Behind Fruchtlabor
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Community-Driven Innovation
+    subtitle: Meet our crypto-native engineers, AI researchers, and blockchain pioneers
     text: >
-      Fruchtlabor ($FUL) is more than just a token—it's a movement built on German precision 
-      and AI-powered innovation. Our community-first approach means that every holder is 
-      part of the team shaping the future of $FUL. With 100% of tokens distributed to the 
-      community and no team allocations, we're creating a truly decentralized ecosystem where 
-      everyone has equal opportunity to participate and grow.
+      Fruchtlabor is built by a highly specialized team of developers and strategists committed to redefining the token economy through AI automation, on-chain governance, and Solana-native tooling. From smart contract security to decentralized liquidity models, our team brings decades of collective experience from leading Web3 and fintech projects.
     actions:
-      - label: View Roadmap
-        url: #roadmap
+      - label: Join the movement
+        url: /
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -41,26 +37,51 @@ sections:
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
-      altText: Fruchtlabor background
+      altText: Abstract tech background
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+
   - title:
-      text: Community Leaders
+      text: Core Contributors
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
+      - name: Felix Lohner
+        title: Lead Blockchain Architect
+        image: /images/person1.png
+        text: >
+          Former lead developer at Serum and contributor to Solana Labs. Specialized in on-chain liquidity automation, smart contract audits, and decentralized governance frameworks.
+      - name: Hannah Jung
+        title: AI Systems & Tokenomics
+        image: /images/person2.png
+        text: >
+          Harvard-trained data scientist with a focus on reinforcement learning in DeFi. Architect of Fruchtlabor's AI-powered reward and burn engine.
+      - name: Yann Kraus
+        title: Security & Smart Contract Infrastructure
+        image: /images/person3.png
+        text: >
+          Ex-Quant turned Web3 auditor. Has worked with 40+ DeFi protocols on Solana and Avalanche. Champion of secure, gas-efficient program design.
+      - name: Minseo Park
+        title: Full Stack Web3 Engineer
+        image: /images/person4.png
+        text: >
+          React / Rust developer with a background in open-source DAO tooling. Manages Fruchtlabor's real-time dApp frontend and smart wallet integrations.
+      - name: Lukas Ritter
+        title: Token Strategy & Ecosystem Ops
+        image: /images/person5.png
+        text: >
+          Previously with Jump Crypto, Lukas oversees liquidity provisioning, cross-platform analytics, and growth partnerships.
+      - name: Alessia Bianchi
+        title: Design & UX Strategy
+        image: /images/person6.png
+        text: >
+          Award-winning product designer with a history of shipping clean and scalable UI for DeFi dashboards, crypto wallets, and governance interfaces.
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -74,204 +95,11 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-  - title:
-      text: Development Roadmap
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Our Vision for the Future
-    items:
-      - title: Phase 1 - Launch & Establish
-        subtitle: Q2 2025
-        text: >-
-          Initial token launch on Solana blockchain with listings on Orca, BirdEye, and DexTools.
-          Establish core community presence through Twitter and initial marketing efforts.
-          Complete security audits and verification of smart contract functionality.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Phase 2 - Growth & Innovation
-        subtitle: Q3 2025
-        text: >-
-          Deployment of AI-powered reward mechanisms for token holders.
-          Implementation of intelligent burn protocol to manage token supply.
-          Release of enhanced liquidity pools and expanded exchange listings.
-          Launch of the Fruchtlabor community governance portal.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Phase 3 - Ecosystem Expansion
-        subtitle: Q4 2025
-        text: >-
-          Integration of advanced AI features for behavioral incentives and community engagement.
-          Development of cross-chain functionality to expand beyond Solana.
-          Strategic partnerships with DeFi protocols and platforms.
-          Release of comprehensive educational resources for community members.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Join Our Community
-        url: https://twitter.com/fruchtlaborcryp
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-    elementId: roadmap
-  - title:
-      text: Token Economics
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Transparent & Community-Focused
-    items:
-      - title: 1,000,000,000
-        subtitle: Total Supply
-        text: >-
-          $FUL has a fixed supply of 1 billion tokens, ensuring scarcity and
-          potential for value growth. No new tokens will ever be minted.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: center
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-        type: FeaturedItem
-      - title: 100%
-        subtitle: Community Allocation
-        text: >-
-          Unlike other projects, Fruchtlabor has no team tokens or private allocations.
-          The entire supply is community-owned, creating true decentralization.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: center
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-        type: FeaturedItem
-      - title: AI-Powered
-        subtitle: Burn Mechanism
-        text: >-
-          Our innovative burn protocol uses artificial intelligence to optimize token
-          burns based on market conditions and community activity.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: center
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Strategic Partnerships
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Building a Stronger Ecosystem
-    text: >
-      Fruchtlabor is actively establishing partnerships with key players in the DeFi and Web3 
-      space to enhance utility and adoption. Our focus is on creating meaningful collaborations 
-      that bring real value to the $FUL community and expand our ecosystem.
-    media:
-      url: /images/abstract-feature1.svg
-      altText: Partnerships illustration
-      elementId: ''
-      type: ImageBlock
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        alignItems: center
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
 seo:
-  metaTitle: Team & Roadmap - Fruchtlabor ($FUL)
-  metaDescription: Explore the community, leadership, and future development plans for Fruchtlabor ($FUL) - the AI-engineered Solana token combining German precision with community governance.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Team - Fruchtlabor
+  metaDescription: Meet the core team behind Fruchtlabor: blockchain engineers, AI researchers, and growth strategists.
+  socialImage: /images/team-preview.jpg
   type: Seo
 type: PageLayout
 ---
+
